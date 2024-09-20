@@ -47,11 +47,3 @@ The project provides a hands-free way of controlling games or applications by re
 - **Jump:** Open palm (5 fingers).
 - **Other Gestures:** WASD keys (uncomment code to use in racing games).
 
-## Future Improvements
-
-- Add more gesture recognition for additional actions.
-- Improve accuracy for detecting complex hand gestures.
-  
----
-
-Feel free to modify this README to fit your specific project needs!
